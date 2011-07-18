@@ -7,7 +7,7 @@ TEMPLATE_DEBUG = DEBUG
 HERE = os.path.dirname(os.path.abspath(__file__))
 YOUFLOG_VERSION = 0.4
 ADMINS = (
-     #('youflog', 'xxxx@gmail.com'),
+     ('libaoyin', 'linglan520@gmail.com'),
 )
 
 logging.basicConfig(
