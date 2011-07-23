@@ -130,6 +130,7 @@ CKEDITOR_UPLOAD_PREFIX = "/static/upload/"
 CKEDITOR_RESTRICT_BY_USER=True
 
 #CKEditor configs
+#That is not valid now.
 CKEDITOR_CONFIGS = {
     'default': {
         'toolbar': 'Full',
